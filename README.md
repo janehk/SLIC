@@ -17,16 +17,17 @@ For example, teams submitting a blockchain-based voting system (potentially base
 ## Design Specifications
 
 The design should specify:
- 
-* The basis of a vote (e.g. per person, per account, weighted, role based such as miners and secure node operators, value based such as account holders, etc., also considering staking requirements and related time locks)
-* Reasoning why the vote basis was selected and why it is better or more suitable than other approaches (including reasoning for allocation of votes to different roles, quantity chose for staking, etc.)
-* Whether and how the results of the voting system would be enforced and integrated within existing legal and governance frameworks (e.g. Terms of Service, Intermediary Liability laws).
+
+* Overview of the governance system design and architecture
+* The basis of the governance process: (e.g. for voting, will the process be per person, per account, weighted, role based such as miners and secure node operators, value based such as account holders, etc., also considering staking requirements and related time locks)
 * The features of the system: how is privacy maintained; how is identity proven; does it allow proxy voting; ballot structure; etc. 
-* Overview of the system design and architecture
+* Reasoning why the governance process was selected and why it is better or more suitable than other approaches (e.g. reasoning for allocation of votes to different roles, quantity chose for staking, etc.)
+* Whether and how the governance process would be enforced and integrated within existing legal and governance frameworks (e.g. Terms of Service, Intermediary Liability laws).
+
 
 # Rapid Prototype
 
-The prototype would demonstrate the voting, counting, and validation process in a legally valid and binding implementation.
+The prototype should demonstrate the governance processes. For example, a voting, counting, and validation process in a legally valid and binding implementation should include:
 
  * Voter identification (what credentials are used)
  * The voting method
@@ -35,7 +36,7 @@ The prototype would demonstrate the voting, counting, and validation process in 
 
 # Team Participation
 
-To register your team project for the Sovereign Legal Identity Challenge, submit a [GitHub Issue](https://github.com/mitmedialab/SLIC/issues/new) with the following information: 
+To register your team project for the Governance Challenge, submit a [GitHub Issue](https://github.com/mitmedialab/SLIC/issues/new) with the following information: 
 * The name of your project and your team name;
 * The names of your team members including the GitHub username of at least one member;
 * The URL of the GitHub repository where your project will be developed and submitted;
@@ -50,6 +51,6 @@ Teams are expected to:
 * Present their final project in a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license;
 * Provide their final project materials (including any slides, video and other media, documentation, working code, etc) through a GitHub repository under an open source license.
 
-Final team projects will be reviewed and rated by a panel of invited judges.  Evaluation criteria will be added to this challenge page after an initial meeting of the judges and prior to the start of the CL+B Festival event.  The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge.  The team submitting the top ranked, highest rated project will be invited to present the project in-person at MIT to interested students, faculty and researchers.  
+Final team projects will be reviewed and rated by a panel of invited judges, including from the ZenCash founding team.  Evaluation criteria will be added to this challenge page after an initial meeting of the judges and prior to the start of the CL+B Festival event.  The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge.  The team submitting the top ranked, highest rated project will be invited to present the project in-person at MIT to interested students, faculty and researchers.  
 
 More information on challenge criteria and additional prizes and awards will be added to this challenge page as they are finalized.
