@@ -4,7 +4,7 @@
 
 **Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the Governance Challenge with a high level design concept and rapid prototype project:**
 
-The Zen Governance Challenge is presented by ZenCash and Legal.io, and there will be a $1500 USD dispersed in ZenCash* prize for the winning team.
+The Zen Governance Challenge is presented by ZenCash and Legal.io, and there will be a $1500 USD prize disbursed in ZenCash*  for the winning team.
 
 ## Conceptual Design
 
@@ -45,6 +45,7 @@ To register your team project for the Governance Challenge, submit a [GitHub Iss
 * The URL of the YouTube Channel where your team will submit video; and
 * The name and URL of the Festival Node your team is participating in
 
+
 # Criteria and Judging
 
 Teams are expected to:
@@ -52,11 +53,30 @@ Teams are expected to:
 * Pitch their project idea at or before the start of the 2018 CL+B Fest through a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license;
 * Present their final project in a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license;
 * Provide their final project materials (including any slides, video and other media, documentation, working code, etc) through a GitHub repository under an open source license.
-* Receive final judgement of content within 10 days from submission from ZenCash and Legal.io teams.
 
-Final team projects will be reviewed and rated by a panel of invited judges, including from the ZenCash and Legal.io founding teams. Evaluation criteria will be added to this challenge page after an initial meeting of the judges and prior to the start of the CL+B Festival event. The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge. The winning project will be rewarded a $1500 cash prize, and encouraged to collaborate with the ZenCash and Legal.io teams on follow-on projects.
+Final team projects will be reviewed and rated by the following panel of invited judges:
+
+* Jane Lippencott, Cofounder, ZenCash
+* Tony Lai, Cofounder, Legal.io, Advisor, Distributed Ledger Foundation
+* Jake Tarren, Core Developer, ZenCash
+* Anthony Cabraal, Connector, Enspiral
+* Brian Kennish, CoFounder, Rocketship and Disconnect
+* Bruce Cahan, Stanford School of Engineering and CodeX Stanford
+* Franck Nouyrigat, CoFounder, Recorp and Startup Weekend.
+* Michael Sofaer, Chief Technology Officer, BK Capital Management
+Vienna Rae Looi, Economic Space Agency
+
+From the 24 hour hack sprint, judges are looking for design specifications for decentralized governance that are demonstrative of frameworks and prototypes that will be produced over the following weeks -- additional benefit will be given if any coded framework is provided after the initial 24 hour hacking period.
+
+Open source projects that were initiated prior to the CLBFest Hackathon are eligible to enter, however judges will take this into consideration.
+
+The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge. The winning project will be rewarded a $1500 prize in ZenCash, and encouraged to collaborate with the ZenCash and Legal.io teams on follow-on projects.
 
 More information on challenge criteria and additional prizes and awards will be added to this challenge page as they are finalized.
+
+Judges will take approximately one month to review the submissions and select a winner. Winners will be announced publicly on April 17, 2018.
+
+All entries are subject to the Terms of the challenge. (https://zengovernance.com/terms)
 
 Email jane@zensystem.io and tony@legal.io with questions. 
 
