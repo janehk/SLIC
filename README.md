@@ -4,7 +4,7 @@
 
 **Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the Governance Challenge with a high level design concept and rapid prototype project:**
 
-The Zen Governance Challenge is presented by ZenCash and Legal.io, and there will be a $1500 cash prize for the winning team.
+The Zen Governance Challenge is presented by ZenCash and Legal.io, and there will be a $1500 USD dispersed in ZenCash* prize for the winning team.
 
 ## Conceptual Design
 
@@ -59,3 +59,5 @@ Final team projects will be reviewed and rated by a panel of invited judges, inc
 More information on challenge criteria and additional prizes and awards will be added to this challenge page as they are finalized.
 
 Email jane@zensystem.io and tony@legal.io with questions. 
+
+* ZenCash denominated amount will be determined by the average USD denominated price during challenge (Mar 17-April 17 2018).
